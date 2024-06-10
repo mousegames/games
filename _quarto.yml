@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Mouse.games"
+  title: "Mouse.games!"
   navbar: 
     left: 
       - href: index.qmd
