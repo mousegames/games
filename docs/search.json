@@ -2,7 +2,7 @@
   {
     "objectID": "games.html",
     "href": "games.html",
-    "title": "games",
+    "title": "Games",
     "section": "",
     "text": "(move the window around until you can see the circle)use your W A S D keys to move your circle in this open world."
   },
@@ -19,5 +19,26 @@
     "title": "about",
     "section": "",
     "text": "about\nHello evryone I just want to share my games"
+  },
+  {
+    "objectID": "games.html#releases",
+    "href": "games.html#releases",
+    "title": "Games",
+    "section": "",
+    "text": "(move the window around until you can see the circle)use your W A S D keys to move your circle in this open world."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mouse.games",
+    "section": "",
+    "text": "This is my new mouse.games website.\n\n\n\n\n(move the window around until you can see the circle)use your W A S D keys to move your circle in the open world."
+  },
+  {
+    "objectID": "index.html#latest-release",
+    "href": "index.html#latest-release",
+    "title": "mouse.games",
+    "section": "",
+    "text": "(move the window around until you can see the circle)use your W A S D keys to move your circle in the open world."
   }
 ]
